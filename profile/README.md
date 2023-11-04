@@ -4,13 +4,13 @@ Selamat datang di komunitas kami yang fokus pada pengembangan aplikasi manajemen
 
 ## Tentang Kami 🌟
 
-Kami adalah sekelompok sukarelawan yang berkomitmen untuk membuat dunia pendidikan menjadi lebih baik melalui teknologi. Tujuan utama kami adalah memberikan solusi perangkat lunak yang mudah digunakan dan bermanfaat bagi sekolah-sekolah di seluruh dunia.
+Kami adalah sekelompok sukarelawan yang berkomitmen untuk membuat dunia pendidikan menjadi lebih baik melalui teknologi. Tujuan utama kami adalah memberikan solusi perangkat lunak yang mudah digunakan dan bermanfaat bagi sekolah-sekolah di seluruh Indonesia.
 
 ## Misi Kami 🚀
 
 Misi kami adalah:
 
-- Membuat aplikasi manajemen sekolah yang sederhana dan efisien.
+- Membuat aplikasi manajemen sekolah yang lebih efisien.
 - Memberikan alat yang membantu sekolah dalam mengatur tugas sehari-hari mereka.
 - Meningkatkan komunikasi antara siswa, orang tua, guru, dan staf sekolah.
 - Mendukung sekolah non-profit dalam mencapai tujuan mereka dengan teknologi.
@@ -23,8 +23,12 @@ Kami selalu mengundang kontribusi dari siapa saja yang berbagi visi kami. Anda b
 
 Beberapa proyek yang telah kami kerjakan termasuk:
 
-- Aplikasi manajemen sekolah sederhana.
-- Sistem informasi siswa yang mudah digunakan.
+- Aplikasi manajemen absensi sekolah.
+- Aplikasi arsip surat.
+- Aplikasi pendaftaran siswa baru.
+- Aplikasi management SPP.
+- Aplikasi buku tamu.
+- Aplikasi tabungan siswa.
 - Portal komunikasi antara guru, siswa, dan orang tua.
 
 ## Hubungi Kami 📧
