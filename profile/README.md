@@ -1,4 +1,4 @@
-# Selamat Datang di Organisasi Manajemen Sekolah 📚
+# Selamat Datang di Komunitas Sekolah Kita 📚
 
 Selamat datang di komunitas kami yang fokus pada pengembangan aplikasi manajemen sekolah. Kami adalah tim yang bersemangat 💪 untuk membantu sekolah-sekolah menjadi lebih efisien dan memberikan pengalaman belajar yang lebih baik bagi siswa.
 
